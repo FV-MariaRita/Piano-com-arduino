@@ -33,7 +33,8 @@ Para voltar ao "Modo Piano" do projeto, é necessário pressionar novamente o no
 | Arduino Leonardo     | 1  |  |
 | Protoboard    | 1      |    |
 | Botão | 9      |     |
-| LED | | |
+| Resistor 220Ω | 8 |     |
+| LED | 9 | |
 | Buzzer | 1 | |
 | Jumper | | |
 | **Total** | | **R$ 0,00**|
