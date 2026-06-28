@@ -9,14 +9,14 @@ As notas musicais são reproduzidas por meio de um buzzer e há um botão que pe
 
 Por fim, há um nono botão na placa que ao ser pressionado faz com que o projeto passe para o "Modo Musical". Ao pressionar esse botão, cada um dos outros botões, que antes representavam notas musicais, passam a representar músicas já escolhidas e programadas no Arduino. As músicas possíveis são: 
 
-* Dó:
-* Ré:
-* Mi:
-* Fa:
-* Sol:
-* Lá:
-* Si:
-* Dó:
+* Dó: Parabéns pra você
+* Ré: Mario Bros (trilha sonora do jogo)
+* Mi: Brilha, brilha estrelinha 
+* Fa: Harry Potter (trilha sonora da saga)
+* Sol: Jingle Bells
+* Lá: Asa Branca 
+* Si: Song of storms (música do jogo Zelda)
+* Dó: Bella Ciao (versão alterada)
 
 Para voltar ao "Modo Piano" do projeto, é necessário pressionar novamente o nono botão. 
 
