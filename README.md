@@ -39,9 +39,11 @@ Para voltar ao "Modo Piano" do projeto, é necessário pressionar novamente o no
 | Jumper | | |
 | **Total** | | **R$ 0,00**|
 
-## Código do projeto
+## Imagens Projeto Tinkercad
+<img width="1322" height="827" alt="image" src="https://github.com/user-attachments/assets/7f06034e-e866-445e-b118-783f850f2998" />
 
-## Projeto no Tinkercad
+
+## Link Projeto no Tinkercad
 https://www.tinkercad.com/things/iCZcOtqq0px-finalizado-sem-musicas-eletcomp/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=W4ntqQAGaRgINmMErT9I_nGZVmr8gEdPA-hA5FkqSJY
 
 ## Imagens do piano 
