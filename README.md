@@ -42,6 +42,7 @@ Para voltar ao "Modo Piano" do projeto, é necessário pressionar novamente o no
 ## Código do projeto
 
 ## Projeto no Tinkercad
+https://www.tinkercad.com/things/iCZcOtqq0px-finalizado-sem-musicas-eletcomp/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=W4ntqQAGaRgINmMErT9I_nGZVmr8gEdPA-hA5FkqSJY
 
 ## Imagens do piano 
 <img width="1600" height="900" alt="WhatsApp Image 2026-06-30 at 22 02 42" src="https://github.com/user-attachments/assets/fde3e20b-b4d5-4344-af9e-ea9aa61d5435" />
