@@ -51,4 +51,6 @@ Para voltar ao "Modo Piano" do projeto, é necessário pressionar novamente o no
 
 ## Vídeo explicativo do projeto
 
+https://youtube.com/shorts/dAUPZGOjtys?feature=share
+
 
