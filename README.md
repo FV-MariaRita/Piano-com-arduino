@@ -18,7 +18,7 @@ Por fim, há um nono botão na placa que ao ser pressionado faz com que o projet
 * Si: Song of storms (música do jogo Zelda)
 * Dó: Bella Ciao (versão alterada)
 
-Para voltar ao "Modo Piano" do projeto, é necessário pressionar novamente o nono botão. 
+Para voltar ao "Modo Piano" do projeto, é necessário soltar o nono botão. 
 
 ## Alunos 
 * Julia Barbosa Nogueira - 17901347 - [Github Julia Nogueira](https://github.com/juliab2nogueira)
