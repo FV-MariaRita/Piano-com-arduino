@@ -45,6 +45,8 @@ Para voltar ao "Modo Piano" do projeto, é necessário pressionar novamente o no
 
 ## Imagens do piano 
 <img width="1600" height="900" alt="WhatsApp Image 2026-06-30 at 22 02 42" src="https://github.com/user-attachments/assets/fde3e20b-b4d5-4344-af9e-ea9aa61d5435" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-06-30 at 22 02 41" src="https://github.com/user-attachments/assets/ab396b0f-1576-451a-b947-2017aba7876e" />
+
 
 
 ## Vídeo explicativo do projeto
